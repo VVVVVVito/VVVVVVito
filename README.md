@@ -57,5 +57,4 @@
     <div class="wd">● 想要對我們說的事情？</div>
     <div class="frame">前陣子因為遭到資遣，經過一段時間的自我思考決定要轉職成軟體工程師，才開始接觸到彭彭的課程和其他youtuber的python課程影片，</div>
 </body>
-
 </html>
